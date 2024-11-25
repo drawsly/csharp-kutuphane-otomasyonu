@@ -6,17 +6,17 @@
     Windows Form Application ile geliştirildi.
     <br/>
     <br/>
-    <a href="https://github.com/drawsl/csharp-kutuphane-otomasyonu/issues">Hata Bildir</a>
+    <a href="https://github.com/drawsly/csharp-kutuphane-otomasyonu/issues">Hata Bildir</a>
     .
-    <a href="https://github.com/drawsl/csharp-kutuphane-otomasyonu/issues">Özellik Talep Et</a>
+    <a href="https://github.com/drawsly/csharp-kutuphane-otomasyonu/issues">Özellik Talep Et</a>
   </p>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/drawsl/csharp-kutuphane-otomasyonu?color=dark-green">
-  <img src="https://img.shields.io/github/forks/drawsl/csharp-kutuphane-otomasyonu?style=social">
-  <img src="https://img.shields.io/github/issues/drawsl/csharp-kutuphane-otomasyonu">
-  <img src="https://img.shields.io/github/license/drawsl/csharp-kutuphane-otomasyonu">
+  <img src="https://img.shields.io/github/contributors/drawsly/csharp-kutuphane-otomasyonu?color=dark-green">
+  <img src="https://img.shields.io/github/forks/drawsly/csharp-kutuphane-otomasyonu?style=social">
+  <img src="https://img.shields.io/github/issues/drawsly/csharp-kutuphane-otomasyonu">
+  <img src="https://img.shields.io/github/license/drawsly/csharp-kutuphane-otomasyonu">
 </p>
 
 ## Proje Hakkında
@@ -105,4 +105,4 @@
 * GPL-v3 Lisansı altında dağıtılmaktadır. Daha fazla bilgi için [LİSANS](https://github.com/drawsl/csharp-kutuphane-otomasyonu/blob/master/LICENSE) dosyasına bakınız..
 ## Yapımcılar
 
-* **[drawsly](https://github.com/drawsl)** - *10. Sınıf Bilişim Teknolojileri* - [Enes Yasin Divrengi](https://enesyasin.com.tr) - *Mehmet Akif Ersoy Çok Programlı Anadolu Lisesi*
+* **[drawsly](https://github.com/drawsly)** - *11. Sınıf Bilişim Teknolojileri* - [Enes Yasin Divrengi](https://enesyasin.com.tr) - *Mehmet Akif Ersoy Çok Programlı Anadolu Lisesi*
